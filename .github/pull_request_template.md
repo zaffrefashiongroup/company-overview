@@ -32,5 +32,5 @@ Go over all the following points, and put an `x` in all the boxes that apply. If
 
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
-- [ ] I have read the **[CONTRIBUTION](/CONTRIBUTING.md)** document.
-- [ ] I have read the **[Code of Conduct](/CODE_OF_CONDUCT.md)**.
+- [ ] I have read the **[Contributing](/contributing.md)** informational document.
+- [ ] I have read the **[Code of Conduct](/code_of_conduct.md)**.
