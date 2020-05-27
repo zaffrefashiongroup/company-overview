@@ -32,7 +32,7 @@ This section provides a conceptual overview of our company's technical journey:
 
 ## About Our Brands
 
-**Mabel** - flagship brand, established in 1995. High-end clothier specializing in fine outerwear and handcrafted leather goods.
+[**Mabel**](/mabel-bu.md) - flagship brand, established in 1995. High-end clothier specializing in fine outerwear and handcrafted leather goods.
 
 **Haverford** - welcomed into the ZFG family in 2018. Handcrafted boots for men & women, built for durability with fashionable sophistication.
 
