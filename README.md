@@ -7,4 +7,4 @@ Zaffre Fashion Group (ZFG) is a fictional company used for educational purposes.
 * Haverford - details *coming soon* about :boot: business unit, store-front, and technology stack
 * Jed - details *coming soon* about :watch: business unit, store-front, and technology stack
 
-If you have any questions about this project, please raise an issue and let us know! :loveletter:
+If you have any questions about this project, please raise an issue and let us know! :love_letter:
