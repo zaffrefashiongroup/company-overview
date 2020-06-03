@@ -1,6 +1,6 @@
 # About Us
 
-Zaffre Fashion Group (ZFG) is a leading haute couture fashion house headquartered in Gravity Falls, OR. Our company provides a boutique brick and click experience for each of our product lines.
+Zaffre Fashion Group (ZFG) is a leading high-end fashion house headquartered in Gravity Falls, OR. Our company provides a boutique brick and click experience for each of our product lines.
 
 Our fashion house was built on our flagship brand, Mabel, a high-end clothier that has garnered a cult following over the last 25 years for its curated fashion experience. The company has since expanded into multiple brands across several business units. 
 
